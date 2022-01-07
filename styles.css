@@ -1,0 +1,21 @@
+.recipe-title{
+    background-color: rgb(90, 114, 224);
+    color: rgb(219, 200, 200);
+    text-align: center;
+    font-family: "Time New Roman", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.description{
+    text-align: center;
+    font-family: Arial, Times, sans-serif;
+    background-color: aquamarine;
+}
+
+.main{
+    background-color: burlywood;
+    text-align: center;
+}
+
+.centered-image{
+    align-items: center;
+}
