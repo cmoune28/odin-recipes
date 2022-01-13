@@ -19,3 +19,14 @@
 .centered-image{
     align-items: center;
 }
+
+.recipes-links{
+    background: aquamarine;
+    padding: 16px;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
